@@ -1,3 +1,5 @@
+console.log("class.js");
+
 function Circle(radius) {
 	this.radius = radius;
 }

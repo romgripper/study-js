@@ -1,3 +1,5 @@
+console.log("literal_class.js");
+
 // Object literal and "this"
 var literalCircle = {	// this equals "new Object"
 	radius: 10,
